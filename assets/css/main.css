@@ -5577,12 +5577,12 @@ blockquote span {
 }
 
 .tp-footer__bottom {
-  background: #1d1d29;
+  background: #000;
 }
 
 .tp-footer__copyright p {
-  color: #9898a0;
-  font-size: 14px;
+  color: #fff;
+  font-size: 20px;
   margin-bottom: 0;
 }
 
